@@ -1,0 +1,24 @@
+{
+  "name": "yowza-extractor",
+  "version": "1.0.0",
+  "description": "Yowza Extractor is a pure JavaScript lib made to easily extract relevant content from Next.js RSC Dumps!",
+  "keywords": [
+    "nextjs",
+    "rsc",
+    "dump",
+    "extract",
+    "extractor"
+  ],
+  "homepage": "https://github.com/JuniorSchueller/yowza-extractor#readme",
+  "bugs": {
+    "url": "https://github.com/JuniorSchueller/yowza-extractor/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuniorSchueller/yowza-extractor.git"
+  },
+  "license": "MIT",
+  "author": "JuniorSchueller",
+  "type": "commonjs",
+  "main": "index.js"
+}
